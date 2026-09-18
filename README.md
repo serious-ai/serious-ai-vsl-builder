@@ -1,6 +1,6 @@
 # Serious AI VSL Builder
 
-By [Serious AI](https://github.com/serious-ai). Plan and script a VSL (video sales letter) with Claude Code, by conversation, using a Hormozi-derived beat map and value-equation framework.
+By [Chris Duff, M.D.](https://seriousai.partners/about/) at [Serious AI Partners](https://seriousai.partners). Plan and script a VSL (video sales letter) with Claude Code, by conversation, using a Hormozi-derived beat map and value-equation framework.
 
 This skill owns the *narrative strategy* of a sales video: what to say, in what order, and why. It doesn't cut video. For the actual editing, it hands off to its companion skill, [serious-ai-video-edit](https://github.com/serious-ai/serious-ai-video-edit).
 
@@ -46,3 +46,13 @@ See [`SKILL.md`](./SKILL.md) for the full framework and process.
 ## Credits & license
 
 Maintained by [Serious AI](https://github.com/serious-ai). The beat map, value-equation framework, and production rules here came out of building and iterating on a real VSL for an underwriting-software product, distilled into a reusable methodology. MIT licensed (see `LICENSE`).
+
+---
+
+## Who built this
+
+[Chris Duff, M.D.](https://seriousai.partners/about/), Serious AI Partners. Fractional Head of AI and fractional CTO for operators who carry real financial consequence when a decision goes wrong.
+
+10+ years directing engineering teams since 2015, and over $6.5M funded and realized in a land investment firm with his own capital at title. That is where the verification habit in these tools comes from. These tools are wrong often, and a wrong answer reads exactly like a right one, so the checking has to sit where a person still signs off.
+
+[seriousai.partners](https://seriousai.partners)
