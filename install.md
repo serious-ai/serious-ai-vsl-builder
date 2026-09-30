@@ -9,7 +9,7 @@ Use this file only for first-time install or reconnect. For daily usage, read `S
 
 ## What you're doing
 
-This skill is pure methodology, no code, no dependencies. It helps a user plan and script a VSL (video sales letter), then hands off actual video cutting to a companion skill, `serious-ai-video-edit`. Installing this skill is just getting `SKILL.md` onto disk and registered; there's no `ffmpeg`, no Python, no API key, nothing to configure.
+This skill is pure methodology, no code, no dependencies. It helps a user plan and script a VSL (video sales letter), then hands off actual video cutting to a companion skill, `serious-ai-video-edit`. Installing this skill is just getting `SKILL.md` onto disk and registered, there's no `ffmpeg`, no Python, no API key, nothing to configure.
 
 ## Steps
 
@@ -33,7 +33,7 @@ Substitute the equivalent skills directory for Codex (`~/.codex/skills/`), Herme
 
 ### 3. Check for the companion skill, serious-ai-video-edit
 
-This skill produces a beat-map script and shot list; it does not cut video. When the user is ready to actually edit footage, the agent needs `serious-ai-video-edit` installed too. Check now, but don't block this install on it:
+This skill produces a beat-map script and shot list, it does not cut video. When the user is ready to actually edit footage, the agent needs `serious-ai-video-edit` installed too. Check now, but don't block this install on it:
 
 ```bash
 test -d ~/.claude/skills/serious-ai-video-edit && echo "present" || echo "missing"
