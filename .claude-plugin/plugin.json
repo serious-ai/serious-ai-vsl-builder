@@ -1,0 +1,9 @@
+{
+  "name": "serious-ai-vsl-builder",
+  "version": "1.0.0",
+  "description": "Plan and script a VSL (video sales letter) on a Hormozi-derived beat map and value equation, then hand off to serious-ai-video-edit.",
+  "author": {"name": "Chris Duff", "url": "https://seriousai.partners"},
+  "repository": "https://github.com/serious-ai/serious-ai-vsl-builder",
+  "license": "MIT",
+  "skills": ["./"]
+}
